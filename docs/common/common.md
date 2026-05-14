@@ -20,3 +20,5 @@
 
 - 최근 히스토리: @docs/common/history/
 - 요약 주기: 3일
+
+| 공통개발팀 | @docs/common/common.md | @docs/common/history/ |
