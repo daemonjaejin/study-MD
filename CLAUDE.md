@@ -9,7 +9,8 @@
 
 | 역할       | 기본 규칙                    | 히스토리                 |
 | ---------- | ---------------------------- | ------------------------ |
-| 개발자     | @docs/developer/developer.md | @docs/developer/history/ |
+| 프론트엔드 | @docs/frontend/frontend.md   | @docs/frontend/history/  |
+| 백엔드     | @docs/backend/backend.md     | @docs/backend/history/   |
 | DBA        | @docs/dba/dba.md             | @docs/dba/history/       |
 | 아키텍처   | @docs/architect/architect.md | @docs/architect/history/ |
 | 디자이너   | @docs/designer/designer.md   | @docs/designer/history/  |
@@ -34,6 +35,7 @@
 
 ## 공통 작업 규칙
 
+- 모든 대화는 한국어로 진행
 - 코드 설명시 파일명을 항상 명시할 것
 - 하나씩 단계별로 진행하고 질의응답 후 다음 단계 진행
 - 현업에서 사용하는 수준의 코드로 작성
